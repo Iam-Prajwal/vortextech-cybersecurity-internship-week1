@@ -11,7 +11,7 @@ The objective of this assignment was to research and document five major vulnera
 - Real-world incidents
 - Prevention and mitigation techniques
 
----
+-------------------------------------
 
 ## 📚 Covered Vulnerabilities
 

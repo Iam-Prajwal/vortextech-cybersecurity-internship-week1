@@ -4,7 +4,7 @@
 
 This repository contains my Week 1 internship assignment for the **Vortex Tech Cyber Security Internship Program**.
 
-The objective of this assignment was to research and document five major vulnerabilities from the latest OWASP Top 10 and understand:
+The objective of this assignment was to research and document five major vulnerabilities from the latest OWASP and understand:
 
 - What each vulnerability is
 - How attackers exploit it
@@ -67,8 +67,6 @@ Interested in:
 
 - Cyber Security
 - AI
-- Full Stack Development
-- Secure Software Engineering
 
 ---
 
